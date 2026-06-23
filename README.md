@@ -1,5 +1,7 @@
 # awesome-Rust-SSA-IRs
 
+A curated list of Rust compiler infrastructure, SSA-based intermediate representations (IR), and code-generation backends. This list collects projects relevant to building compilers in Rust: native IR frameworks, MLIR/LLVM bindings, register allocators, GPU, and formal verification tooling.
+
 - [rust](https://github.com/rust-lang/rust)
 - [project-stable-mir](https://github.com/rust-lang/project-stable-mir)
 - [rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift)
@@ -32,3 +34,4 @@
 - [charon](https://github.com/AeneasVerif/charon)
 - [egg](https://github.com/egraphs-good/egg)
 - [cairo_native](https://github.com/starkware-libs/cairo_native)
+- [inkwell](https://github.com/TheDan64/inkwell)
