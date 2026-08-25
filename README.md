@@ -61,6 +61,7 @@ A curated list of Rust compiler infrastructure, SSA-based intermediate represent
 
 - [gleam](https://github.com/gleam-lang/gleam): Statically-typed language for the BEAM (Erlang VM) and JS.
 - [move](https://github.com/move-language/move): Smart-contract language (originally Diem/Libra).
+- [SEMAPRAX](https://wavect.io/semaprax/): Experimental pre-alpha systems language and compiler built in Rust around stable semantic identities and a versioned program graph ([source](https://github.com/wavect/semaprax)).
 - [sway](https://github.com/FuelLabs/sway): Smart-contract language for the Fuel blockchain.
 - [noir](https://github.com/noir-lang/noir): Domain-specific language for zero-knowledge proofs.
 - [fe](https://github.com/argotorg/fe) — Smart-contract language for the EVM (uses sonatina as backend).
